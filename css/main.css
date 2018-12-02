@@ -5,3 +5,15 @@ body {
 .social-icon {
   margin: 0px 10px;
 }
+
+#twitter-icon {
+  color: #00aced;
+}
+
+#linkedin-icon {
+  color: #007bb6;
+}
+
+#github-icon {
+  color: black;
+}
