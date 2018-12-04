@@ -1,7 +1,3 @@
-body {
-  margin: 10px;
-}
-
 .social-icon {
   margin: 0px 10px;
 }
@@ -22,10 +18,10 @@ body {
   font-size: 14px;
 }
 
-#in-progress {
-  margin-top: 10px;
-}
-
 #in-progress > p {
   font-size: 10px;
+}
+
+.col-sm {
+  margin-top: 10px;
 }
