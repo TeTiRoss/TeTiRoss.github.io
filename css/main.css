@@ -18,18 +18,20 @@
   color: black;
 }
 
-#mailto-icon {
-  color: black;
-}
-
 #main {
   font-size: 14px;
 }
 
 #about {
+  margin-top: 10px;
+}
+
+#about > p {
   font-size: 14px;
+  text-align: justify;
 }
 
 #in-progress {
+  margin-top: 30px;
   font-size: 10px;
 }
