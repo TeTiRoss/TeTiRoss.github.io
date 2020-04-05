@@ -19,7 +19,8 @@
 }
 
 .social-icon {
-  margin: 0px 10px;
+  display: inline-block;
+  margin: 5px 10px;
 }
 
 .portfolio {
